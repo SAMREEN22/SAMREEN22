@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
 
-My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad. You can find me on 
+My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad. You can find me on ![github](https://cloud.githubusercontent.com/file:///C:/Users/Hp/Downloads/linnn229082.png)
 
 <!--
 **SAMREEN22/SAMREEN22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
