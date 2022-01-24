@@ -4,7 +4,8 @@
 
 My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad. You can find me on:
 
-[![2linnn229082](https://user-images.githubusercontent.com/65328605/150692918-d7c1f2ce-647b-4452-ab1d-6ba947950528.png)](https://www.linkedin.com/in/samreensiddiqui03)  (https://www.hackerrank.com/S_2206)
+[![2linnn229082](https://user-images.githubusercontent.com/65328605/150692918-d7c1f2ce-647b-4452-ab1d-6ba947950528.png)](https://www.linkedin.com/in/samreensiddiqui03)  [
+![hr4845006](https://user-images.githubusercontent.com/65328605/150734158-d3b6fa0d-44b2-46e6-a681-e0948c2d341a.png)](https://www.hackerrank.com/S_2206)
 
 <!--
 **SAMREEN22/SAMREEN22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
