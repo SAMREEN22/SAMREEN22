@@ -1,4 +1,4 @@
-
+![](https://github.com/SAMREEN22/SAMREEN22/blob/main/changed210-2103805_creative-linkedin-background-photo-inspirational-linkedin-ad-agency.jpg)
 
 # Hello, folks! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
 
@@ -23,11 +23,12 @@ You can find me on:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SAMREEN22/SAMREEN22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMREEN22&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/SAMREEN22/SAMREEN22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMREEN22&show_icons=true&line_height=27&count_private=true&theme=highcontrast" alt="Samreen's GitHub Stats" />
 </a>
+<a href="https://github.com/SAMREEN22/SAMREEN22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMREEN22&show_icons=true&theme=highcontrast" />
+</a>
+
 
 
 
