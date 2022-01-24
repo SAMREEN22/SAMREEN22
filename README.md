@@ -1,15 +1,14 @@
-![](https://github.com/SAMREEN22/SAMREEN22/blob/main/changed210-2103805_creative-linkedin-background-photo-inspirational-linkedin-ad-agency.jpg)
+![](https://github.com/SAMREEN22/SAMREEN22/blob/main/newnew210-2103805_creative-linkedin-background-photo-inspirational-linkedin-ad-agency.jpg)
 
 # Hello, folks! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
 
 My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad.
 
-You can reach me: samreen.1923it1191@kiet.edu
+📫 You can reach me: samreen.1923it1191@kiet.edu
 
-You can find me on:
+🔎 You can find me on:
 
-[![2linnn229082](https://user-images.githubusercontent.com/65328605/150692918-d7c1f2ce-647b-4452-ab1d-6ba947950528.png)](https://www.linkedin.com/in/samreensiddiqui03)  [
-![hr4845006](https://user-images.githubusercontent.com/65328605/150734158-d3b6fa0d-44b2-46e6-a681-e0948c2d341a.png)](https://www.hackerrank.com/S_2206)
+[![2linnn229082](https://user-images.githubusercontent.com/65328605/150692918-d7c1f2ce-647b-4452-ab1d-6ba947950528.png)](https://www.linkedin.com/in/samreensiddiqui03)  [![hr4845006](https://user-images.githubusercontent.com/65328605/150734158-d3b6fa0d-44b2-46e6-a681-e0948c2d341a.png)](https://www.hackerrank.com/S_2206)
 
 ## 🔧 Technologies & Tools
 
@@ -29,6 +28,8 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMREEN22&show_icons=true&theme=highcontrast" />
 </a>
 
+##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAMREEN22&theme=dark)](https://git.io/streak-stats)
 
 
 
