@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/SAMREEN22/SAMREEN22/master/readme_header.png "Header")](https://samreensiddiqui.dev/)
+
 
 # Hello, folks! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
 
