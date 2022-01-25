@@ -8,7 +8,7 @@ My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in
 
 🔎 You can find me on:
 
-[![2linnn229082](https://user-images.githubusercontent.com/65328605/150692918-d7c1f2ce-647b-4452-ab1d-6ba947950528.png)](https://www.linkedin.com/in/samreensiddiqui03)  [![hr4845006](https://user-images.githubusercontent.com/65328605/150734158-d3b6fa0d-44b2-46e6-a681-e0948c2d341a.png)](https://www.hackerrank.com/S_2206)
+[![linkedlinkedinlogosocialicon-1320191784782940875](https://user-images.githubusercontent.com/65328605/150916972-817cb02e-cf97-4cb2-a7d1-cfb9b9ba8c75.png)](https://www.linkedin.com/in/samreensiddiqui03)  [![download](https://user-images.githubusercontent.com/65328605/150915985-91087015-48be-4c4a-9e30-3de38aa7b1c3.png)](https://www.hackerrank.com/S_2206)
 
 ## 🔧 Technologies & Tools
 
