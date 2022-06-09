@@ -1,6 +1,6 @@
 ![](https://github.com/SAMREEN22/SAMREEN22/blob/main/newnew210-2103805_creative-linkedin-background-photo-inspirational-linkedin-ad-agency.jpg)
 
-# Hello, folks! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
+# Hello, folks!:v:
 
 My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad.
 
