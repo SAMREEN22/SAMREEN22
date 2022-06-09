@@ -8,15 +8,17 @@ My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in
 
 🔎 You can find me on:
 
-[![800px-LinkedIn_logo_initials (1)](https://user-images.githubusercontent.com/65328605/159165550-65825e7e-5759-482e-b19c-25cd38a0acb4.png)](https://www.linkedin.com/in/samreensiddiqui03)   [![download (3) (1)](https://user-images.githubusercontent.com/65328605/159165547-573ba390-6d2e-4323-b794-98a900081172.jpg)](https://www.hackerrank.com/S_2206)   [![83facdeba5b924cb3b1a (2)](https://user-images.githubusercontent.com/65328605/159165371-eaa2e77e-dcbb-4ebc-b187-bc89fdb44d2b.png)](https://leetcode.com/Samm_22)
+[![800px-LinkedIn_logo_initials (1)](https://user-images.githubusercontent.com/65328605/159165550-65825e7e-5759-482e-b19c-25cd38a0acb4.png)](https://www.linkedin.com/in/samreensiddiqui03)    [![download (3) (1)](https://user-images.githubusercontent.com/65328605/159165547-573ba390-6d2e-4323-b794-98a900081172.jpg)](https://www.hackerrank.com/S_2206)    [![83facdeba5b924cb3b1a (2)](https://user-images.githubusercontent.com/65328605/159165371-eaa2e77e-dcbb-4ebc-b187-bc89fdb44d2b.png)](https://leetcode.com/Samm_22)
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
