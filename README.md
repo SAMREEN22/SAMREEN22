@@ -8,7 +8,7 @@ My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in
 
 🔎 You can find me on:
 
-[![800px-LinkedIn_logo_initials (1)](https://user-images.githubusercontent.com/65328605/159165550-65825e7e-5759-482e-b19c-25cd38a0acb4.png)](https://www.linkedin.com/in/samreensiddiqui03)    [![download (3) (1)](https://user-images.githubusercontent.com/65328605/159165547-573ba390-6d2e-4323-b794-98a900081172.jpg)](https://www.hackerrank.com/S_2206)    [![83facdeba5b924cb3b1a (2)](https://user-images.githubusercontent.com/65328605/159165371-eaa2e77e-dcbb-4ebc-b187-bc89fdb44d2b.png)](https://leetcode.com/Samm_22)    [![c5d9fc1e18bcf039f464c2ab6cfb3eb6](https://user-images.githubusercontent.com/65328605/176273811-b168f98c-4efc-4fa4-b26a-0e4a7dd8fc86.jpg)](https://www.codechef.com/samreen_22)
+[![800px-LinkedIn_logo_initials (1)](https://user-images.githubusercontent.com/65328605/159165550-65825e7e-5759-482e-b19c-25cd38a0acb4.png)](https://www.linkedin.com/in/samreensiddiqui03)    [![download (3) (1)](https://user-images.githubusercontent.com/65328605/159165547-573ba390-6d2e-4323-b794-98a900081172.jpg)](https://www.hackerrank.com/S_2206)    [![83facdeba5b924cb3b1a (2)](https://user-images.githubusercontent.com/65328605/159165371-eaa2e77e-dcbb-4ebc-b187-bc89fdb44d2b.png)](https://leetcode.com/Samm_22)    [![c5d9fc1e18bcf039f464c2ab6cfb3eb6](https://user-images.githubusercontent.com/65328605/176273811-b168f98c-4efc-4fa4-b26a-0e4a7dd8fc86.jpg)](https://www.codechef.com/users/samreen_22)
 
 ## 🔧 Technologies & Tools
 
