@@ -2,7 +2,7 @@
 
 # Hello, folks!:v:
 
-My name is Samreen Siddiqui and I am an undergraduate student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad.
+My name is Samreen Siddiqui and I am a final year student pursuing B.Tech in Electronics and Communication from KIET Group of Institutions, Ghaziabad.
 
 📫 You can reach me: samreen.1923it1191@kiet.edu
 
